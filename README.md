@@ -2,8 +2,8 @@
 
 HLDM: Upgraded Resources
 
-[![screenshot-1](/thumbnail-1)](/screenshot-1)
-[![screenshot-2](/thumbnail-2)](/screenshot-2)
+[![screenshot-1](/thumbnail-1.jpg)](/screenshot-1.jpg)
+[![screenshot-2](/thumbnail-2.jpg)](/screenshot-2.jpg)
 
 * Updated textures.
 * Models from Black Mesa - optimized for FOV 110.
