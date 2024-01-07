@@ -1,0 +1,86 @@
+//HL: Detail is a project fury# and Crowbar /` started in December 2009.
+//We changed halflife.wad and linked new 24bit textures with 18 popular hldm maps.
+//These Textures aren't completely created by us.
+
+//Credit goes to:
+//-Chain Studios (Half-Life: FX Contents, http://chainstudios.hlfx.ru/index.php?do=lbmfx)
+//-Valve (Source Materials)
+//-Cred Injuries (Some Textures + Some Help, http://www.fpsbanana.com/members/790621)
+//-thedönerking (thwc2_stalky map detailtextures, http://www.fpsbanana.com/maps/37711)
+//-protostar (source materials, http://www.fpsbanana.com/textures/95)
+
+//maplist:
+
+//lost_village2,
+//rapidcore, 
+//echo, 
+//stalkx,
+//boot_camp,
+//crossfire,
+//ag_crossfire,
+//gasworks,
+//stalkyard,
+//bounce,
+//cyanidestalkyard,
+//scary_1,
+//endcamp,
+//thunderstruck,
+//doublecross,
+//rebellion,
+//datacore,
+//ag_hidden_lab
+
+//Contact: www.xen-raiders.ucoz.com
+
++0medkit		detail/+0medkit				1.0	1.0
++amedkit		detail/+amedkit				1.0	1.0
++0recharge		detail/+0recharge			1.0	1.0
++arecharge		detail/+arecharge			1.0	1.0
+
+babtech_ceil01		detail/dettex2_2			0.5	0.5
+basetrim02		detail/Dead_trim1			1.0	1.0
+
+c1a1_w1			detail/concretewall002a			1.0	1.0
+c1a1c_w2		detail/concretewall002a			1.0	1.0
+c1a3wall08		detail/concretewall002a_2		1.0	1.0
+c1a4_c1c		detail/metalcombine002_sw		1.0	1.0
+c1a4i_w1b		detail/c1a4i_w1b_custom			0.5	1.0
+c1a4f_w1		detail/concretewall059a_sw		1.0	1.0
+c1a4tnnl1d		detail/concretewall059a_sw		1.0	1.0
+c1a4_silo3		detail/concretewall059b_2_256x256	1.0	1.0
+
+c2a1_w1			detail/concretewall002a			1.0	1.0
+
+c3a2a_pipe1		detail/dt_metal1			10.0	2.0
+c3a1b_w7		detail/concretefloor028a		1.0	1.0
+
+crete3_wall02		detail/concretefloor027a_sw_bright	1.0	1.0
+
+generic77		detail/dt_metal2			2.0	2.0
+
+lab1_bluxc1		detail/dt_fabric1			4.0	4.0
+
+out_grnd2		detail/out_grnd2			1.0	1.0
+
+-0out_crt2a		detail/concretewall071a			1.0	1.0
+-1out_crt2a		detail/concretewall071a			1.0	1.0
+-2out_crt2a		detail/concretewall071a			1.0	1.0
+-3out_crt2a		detail/concretewall071a			1.0	1.0
+
+-0out_dirt2		detail/dirtfloor2_sw			1.0	1.0
+-1out_dirt2		detail/dirtfloor2_sw			1.0	1.0
+-2out_dirt2		detail/dirtfloor2_sw			1.0	1.0
+-3out_dirt2		detail/dirtfloor2_sw			1.0	1.0
+-4out_dirt2		detail/dirtfloor2_sw			1.0	1.0
+
+-0out_rk3		detail/rockwall015a_sw			1.0	1.0
+-1out_rk3		detail/rockwall015a_sw			1.0	1.0
+-2out_rk3		detail/rockwall015a_sw			1.0	1.0
+-3out_rk3		detail/rockwall015a_sw			1.0	1.0
+-4out_rk3		detail/rockwall015a_sw			1.0	1.0
+
+
+silo2_wet4d		detail/concretefloor028a		1.0	1.0
+
++0~light2a		detail/light3				3.0	3.0
+{ladder1		detail/dt_metal2			2.0	1.0

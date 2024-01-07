@@ -1,0 +1,68 @@
+//HL: Detail is a project fury# and Crowbar /` started in December 2009.
+//We changed halflife.wad and linked new 24bit textures with 18 popular hldm maps.
+//These Textures aren't completely created by us.
+
+//Credit goes to:
+//-Chain Studios (Half-Life: FX Contents, http://chainstudios.hlfx.ru/index.php?do=lbmfx)
+//-Valve (Source Materials)
+//-Cred Injuries (Some Textures + Some Help, http://www.fpsbanana.com/members/790621)
+//-thedönerking (thwc2_stalky map detailtextures, http://www.fpsbanana.com/maps/37711)
+//-protostar (source materials, http://www.fpsbanana.com/textures/95)
+
+//maplist:
+
+//lost_village2,
+//rapidcore, 
+//echo, 
+//stalkx,
+//boot_camp,
+//crossfire,
+//ag_crossfire,
+//gasworks,
+//stalkyard,
+//bounce,
+//cyanidestalkyard,
+//scary_1,
+//endcamp,
+//thunderstruck,
+//doublecross,
+//rebellion,
+//datacore,
+//ag_hidden_lab
+
+//Contact: www.xen-raiders.ucoz.com
+
+smallrock2		detail/rockwall015a_sw			1.0	1.0
+out_ground9		detail/dirtfloor1_rebellion		1.0	1.0
+i_wall_base2		detail/dt_stone1			2.0	2.0
+
+-0tnnl_flr1b		detail/tile15_b			1.0	1.0
+-1tnnl_flr1b		detail/tile15_b			1.0	1.0
+-2tnnl_flr1b		detail/tile15_b			1.0	1.0
+-3tnnl_flr1b		detail/tile15_b			1.0	1.0
+
+basetrim02		detail/Dead_trim1		1.0	1.0
+silo2_w3brd		detail/silo2_brd1a_b		1.0	1.0
+tnnl_flr1a		detail/metall1			0.25	1.0
+
+tnnl_w7			detail/concretefloor016a	1.0	0.5
+tnnl_w7b		detail/concretefloor016a	1.0	0.5
+
+c1a4tnnl1c2		detail/dt_stone1		2.0	1.5
+c1a1c_w2		detail/concretewall002a		1.0	1.0
+
+crete4w3		detail/crete4w3			1.0	1.0
+
+c2a5helpad		detail/concretefloor005a	1.0	1.0
+
+silo2_wet4b		detail/concretewall059a_r_rebellion	1.25	1.25
+silo2_wet4d		detail/concretewall059a_r_rebellion	1.25	1.25
+
+tnnl_w12d4		detail/dettex2			1.0	1.0
+tnnl_w4a		detail/concretefloor027a	1.0	1.0
+
+generic77		detail/dt_metal2		2.0	2.0
+
++0~light2a		detail/crystallized1		1.0	0.75
+~light3b		detail/crystallized1		1.0	0.25
+

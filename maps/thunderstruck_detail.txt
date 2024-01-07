@@ -1,0 +1,55 @@
+//HL: Detail is a project fury# and Crowbar /` started in December 2009.
+//We changed halflife.wad and linked new 24bit textures with 18 popular hldm maps.
+//These Textures aren't completely created by us.
+
+//Credit goes to:
+//-Chain Studios (Half-Life: FX Contents, http://chainstudios.hlfx.ru/index.php?do=lbmfx)
+//-Valve (Source Materials)
+//-Cred Injuries (Some Textures + Some Help, http://www.fpsbanana.com/members/790621)
+//-thedönerking (thwc2_stalky map detailtextures, http://www.fpsbanana.com/maps/37711)
+//-protostar (source materials, http://www.fpsbanana.com/textures/95)
+
+//maplist:
+
+//lost_village2,
+//rapidcore, 
+//echo, 
+//stalkx,
+//boot_camp,
+//crossfire,
+//ag_crossfire,
+//gasworks,
+//stalkyard,
+//bounce,
+//cyanidestalkyard,
+//scary_1,
+//endcamp,
+//thunderstruck,
+//doublecross,
+//rebellion,
+//datacore,
+//ag_hidden_lab
+
+//Contact: www.xen-raiders.ucoz.com
+
+-0silo2_p2b		detail/metalpipe008a		1.0	1.0
+-1silo2_p2b		detail/metalpipe008a		1.0	1.0
+-2silo2_p2b		detail/metalpipe008a		1.0	1.0
+-3silo2_p2b		detail/metalpipe008a		1.0	1.0
+-4silo2_p2b		detail/metalpipe008a		1.0	1.0
+
+crete3_wall02		detail/concretefloor038a	1.0	1.0
+tnnl_w12c		detail/dettex2			1.0	1.0
+tnnl_flr4		detail/tnnl_flr4		1.0 	1.0
+
+c2a3_gar3		detail/metall1			0.5 	0.5
+
+out_snd2b		detail/out_snd2c_thunderstruck	1.0	1.0
+
+generic_111b		detail/metall1			0.5 	0.625
+generic_111c		detail/dt_smooth2		3.0	2.25
+
+
+
+~spotyellow		detail/crystallized1		0.5	0.5
++0~tnnl_lgt3		detail/light3			1.0	1.0

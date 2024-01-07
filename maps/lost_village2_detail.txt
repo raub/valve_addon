@@ -1,0 +1,103 @@
+//HL: Detail is a project fury# and Crowbar /` started in December 2009.
+//We changed halflife.wad and linked new 24bit textures with 18 popular hldm maps.
+//These Textures aren't completely created by us.
+
+//Credit goes to:
+//-Chain Studios (Half-Life: FX Contents, http://chainstudios.hlfx.ru/index.php?do=lbmfx)
+//-Valve (Source Materials)
+//-Cred Injuries (Some Textures + Some Help, http://www.fpsbanana.com/members/790621)
+//-thedönerking (thwc2_stalky map detailtextures, http://www.fpsbanana.com/maps/37711)
+//-protostar (source materials, http://www.fpsbanana.com/textures/95)
+
+//maplist:
+
+//lost_village2,
+//rapidcore, 
+//echo, 
+//stalkx,
+//boot_camp,
+//crossfire,
+//ag_crossfire,
+//gasworks,
+//stalkyard,
+//bounce,
+//cyanidestalkyard,
+//scary_1,
+//endcamp,
+//thunderstruck,
+//doublecross,
+//rebellion,
+//datacore,
+//ag_hidden_lab
+
+//Contact: www.xen-raiders.ucoz.com
+
++0medkit		detail/+0medkit				1.0	1.0
++amedkit		detail/+amedkit				1.0	1.0
++0recharge		detail/+0recharge			1.0	1.0
++arecharge		detail/+arecharge			1.0	1.0
+
+c2a4xc2			detail/dt_smooth1			2.0	2.0
+c3a1_w3a		detail/concretefloor038a		1.0	1.0
+
+crete2_flr02		detail/cave_rk1				1.0	1.0
+
+-0crete2_flr5		detail/concretefloor016a		0.25	0.25
+-1crete2_flr5		detail/concretefloor016a		0.25	0.25
+-2crete2_flr5		detail/concretefloor016a		0.25	0.25
+-3crete2_flr5		detail/concretefloor016a		0.25	0.25
+-4crete2_flr5		detail/concretefloor016a		0.25	0.25
+-5crete2_flr5		detail/concretefloor016a		0.25	0.25
+
+elev2_flr		detail/metal_detail_01			0.5	0.5
+flatbed_lite1		detail/crystallized1			1.0	1.0
+generic_113a		detail/metall1_bright			0.15	1.0
+
+moss1_base3		detail/dirtfloor009c_lv2		1.0	1.0
+
+out_pav3		detail/concretefloor027a_sw_bright	1.0	1.0
+out_roof2b		detail/dt_smooth1			4.0	2.0
+
+pak5_rck3_wl1		detail/dettex7_bright			1.0	1.0
+pak6_rck5_wl1		detail/metall1_bright			1.0	1.0
+rmetal3_1		detail/metall1_bright			0.25	0.5
+
+rock6_base2		detail/steel_tiles			4.0	4.0
+
+-0silo2_p2b		detail/metall1_bright			1.0	1.0
+-1silo2_p2b		detail/metall1_bright			1.0	1.0
+-2silo2_p2b		detail/metall1_bright			1.0	1.0
+-3silo2_p2b		detail/metall1_bright			1.0	1.0
+-4silo2_p2b		detail/metall1_bright			1.0	1.0
+-5silo2_p2b		detail/metall1_bright			1.0	1.0
+
+-0silo2_p3		detail/metall1_bright			1.0	1.0
+-1silo2_p3		detail/metall1_bright			1.0	1.0
+-2silo2_p3		detail/metall1_bright			1.0	1.0
+-3silo2_p3		detail/metall1_bright			1.0	1.0
+-4silo2_p3		detail/metall1_bright			1.0	1.0
+-5silo2_p3		detail/metall1_bright			1.0	1.0
+
+silo2_wet4c		detail/dt_stone1_contrast		4.0	4.0
+silo2_wet4d		detail/dt_stone2_dark			5.0	5.0
+
+tnnl_flr8		detail/concretefloor016a		0.5	0.5
+tnnl_w4a		detail/grnd_floorbse2			4.0	4.0
+
+wolf_crate2		detail/dt_metal2			4.0	2.0
+wolf_crete1		detail/dt_conc				6.0	6.0
+wolf_elev		detail/metal_detail_01			3.0	3.0
+wolf_floor3		detail/dt_plaster1_contrast		6.0	6.0
+
+wolf_rock3		detail/rockfloor2_sw			3.5	3.5
+
+wolf_stair		detail/dt_metal2			0.25	4.0
+wolf_trk5		detail/metal_detail_01			1.0	1.0
+wolf_wall1		detail/dt_stone1			6.0	6.0
+
+{ladder2		detail/metal_detail_01			1.0	1.0
+
++0~generic86		detail/crystallized1			1.0	1.0
++0~generic86r		detail/crystallized1			1.0	1.0
++0~generic86b		detail/crystallized1			1.0	1.0
+

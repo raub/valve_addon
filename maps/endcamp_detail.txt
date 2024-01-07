@@ -1,0 +1,97 @@
+//HL: Detail is a project fury# and Crowbar /` started in December 2009.
+//We changed halflife.wad and linked new 24bit textures with 18 popular hldm maps.
+//These Textures aren't completely created by us.
+
+//Credit goes to:
+//-Chain Studios (Half-Life: FX Contents, http://chainstudios.hlfx.ru/index.php?do=lbmfx)
+//-Valve (Source Materials)
+//-Cred Injuries (Some Textures + Some Help, http://www.fpsbanana.com/members/790621)
+//-thedönerking (thwc2_stalky map detailtextures, http://www.fpsbanana.com/maps/37711)
+//-protostar (source materials, http://www.fpsbanana.com/textures/95)
+
+//maplist:
+
+//lost_village2,
+//rapidcore, 
+//echo, 
+//stalkx,
+//boot_camp,
+//crossfire,
+//ag_crossfire,
+//gasworks,
+//stalkyard,
+//bounce,
+//cyanidestalkyard,
+//scary_1,
+//endcamp,
+//thunderstruck,
+//doublecross,
+//rebellion,
+//datacore,
+//ag_hidden_lab
+
+//Contact: www.xen-raiders.ucoz.com
+
++0medkit	detail/+0medkit   		1.0     1.0
++0recharge	detail/+0recharge  		1.0     1.0
++arecharge	detail/+arecharge  		1.0     1.0
++amedkit	detail/+amedkit   		1.0     1.0
+
+c1a0_labflr	detail/bm_labfloor2		1.5	1.5
+c1a0_labglu	detail/dt_ground5		1.0	1.0
+
+c1a0_labw5	detail/labwall01_c		1.0	1.0
+
+c1a0b_dr3b	detail/door1			1.0	1.0
+
+drlmtlt_bord11	detail/dettex6_bright		0.5	0.5
+
+duct_flr01	detail/vent3			1.0	1.0
+duct_vnt	detail/duct_vnt			1.0	1.0
+{rail1c		detail/dt_metal2		1.0	1.0
+
+steel		detail/dettex6_bright		1.0	1.0
+fifties_dsk5a	detail/dt_metal2		1.0	1.0
+fifties_dsk5b	detail/dt_metal2		1.0	1.0
+pfab_crt1a	detail/dt_fabric2		1.0	1.0
+
+elev1		detail/elev1			1.0	1.0
+elev1_dr	detail/elev1_dr			1.0	1.0
+elev1_ciel	detail/dt_smooth1		1.0	1.0
+elev1_flr	detail/elev1_flr		1.0	1.0
+
++aelev_down	detail/+aelev_down		1.0	1.0
++0elev_down	detail/+0elev_down		1.0	1.0
+
+crate02b	detail/crate02b			1.0	1.0
+crate03		detail/crate03			1.0	1.0
+crate05		detail/crate02b			1.0	1.0
+crate06		detail/crate03			1.0	1.0
+crate08		detail/crate08			1.0	1.0
+crate08b	detail/crate08			1.0	1.0
+crate13		detail/crate08			1.0	1.0
+
+bcrate02	detail/crate03			1.0	1.0
+
+xcrate10a	detail/xcrate10a		1.0	1.0
+xcrate10b	detail/xcrate10b		1.0	1.0
+xcrate10c	detail/xcrate10c		1.0	1.0
+xcrate10d	detail/xcrate10d		1.0	1.0
+
+xcrate7a	detail/xcrate7a			1.0	1.0
+xcrate7b	detail/xcrate7b			1.0	1.0
+xcrate7c	detail/xcrate7c			1.0	1.0
+
+generic96	detail/dt_ssteel2		1.0	1.5
+
+sign4		detail/sign4			1.0	1.0
+
++0~fifts_lght01	detail/light1			1.0	1.0
+
+generic107	detail/generic107		1.0	1.0
+generic107a	detail/generic107a		1.0	1.0
+generic107b	detail/generic107b		1.0	1.0
+
+gen_vend1	detail/generic106		1.0	1.0
+gen_vend1a	detail/generic106a		1.0	1.0
+gen_vend1b	detail/generic106b		1.0	1.0

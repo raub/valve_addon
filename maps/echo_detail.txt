@@ -1,0 +1,115 @@
+//HL: Detail is a project fury# and Crowbar /` started in December 2009.
+//We changed halflife.wad and linked new 24bit textures with 18 popular hldm maps.
+//These Textures aren't completely created by us.
+
+//Credit goes to:
+//-Chain Studios (Half-Life: FX Contents, http://chainstudios.hlfx.ru/index.php?do=lbmfx)
+//-Valve (Source Materials)
+//-Cred Injuries (Some Textures + Some Help, http://www.fpsbanana.com/members/790621)
+//-thedönerking (thwc2_stalky map detailtextures, http://www.fpsbanana.com/maps/37711)
+//-protostar (source materials, http://www.fpsbanana.com/textures/95)
+
+//maplist:
+
+//lost_village2,
+//rapidcore, 
+//echo, 
+//stalkx,
+//boot_camp,
+//crossfire,
+//ag_crossfire,
+//gasworks,
+//stalkyard,
+//bounce,
+//cyanidestalkyard,
+//scary_1,
+//endcamp,
+//thunderstruck,
+//doublecross,
+//rebellion,
+//datacore,
+//ag_hidden_lab
+
+//Contact: www.xen-raiders.ucoz.com
+
++0medkit		detail/+0medkit				1.0	1.0
++0recharge		detail/+0recharge			1.0	1.0
++arecharge		detail/+arecharge			1.0	1.0
++amedkit		detail/+amedkit				1.0	1.0
+
+babtech9d		detail/dt_stone2			2.0	2.0
+basetrim02		detail/Dead_trim1			1.0	1.0
+c1a1c_w2b		detail/concretewall002a			1.0	1.0
+c1a4b_w1		detail/dettex1_dark			1.4	1.0
+
+c3a1_w2a		detail/wall18				1.0	1.0
+c3a1_w5a		detail/wall14				1.0	1.0
+c3a1_w5b		detail/wall18				1.0	1.0
+c3a1_w5d		detail/wall17				1.0	1.0
+
+con1_wall01p		detail/elevator1			1.0	1.0
+crete4_flr03		detail/c1a1_flr2a			1.0	1.0
+duct_break		detail/metal_detail_01			1.0	1.0
+
+fifties_cmp3b		detail/dettex6				0.75	0.5
+generic101a2		detail/metaldoor2			1.0	1.0
+generic64		detail/dt_stone2			0.5	1.0
+generic77		detail/metaldoor			1.0	1.0
+lab1_trim3		detail/metaltruss017a			1.0	1.0
+lab5_c2			detail/metalfloor5			1.0	1.0
+
+out_boxa		detail/out_boxa				1.0	1.0
+out_boxb		detail/out_boxb				1.0	1.0
+out_boxd		detail/out_boxd				1.0	1.0
+
+-0silo2_p2b		detail/metalpipe008a			1.0	1.0
+-1silo2_p2b		detail/metalpipe008a			1.0	1.0
+-2silo2_p2b		detail/metalpipe008a			1.0	1.0
+-3silo2_p2b		detail/metalpipe008a			1.0	1.0
+-4silo2_p2b		detail/metalpipe008a			1.0	1.0
+
+silo2_wet4d		detail/dirtfloor2_sw			1.0	1.0
+stain_wall06		detail/metal_rusty			1.0	1.0
+
+-0tnnl_flr1b		detail/tile15_b				1.0	1.0
+-1tnnl_flr1b		detail/tile15_b				1.0	1.0
+-2tnnl_flr1b		detail/tile15_b				1.0	1.0
+-3tnnl_flr1b		detail/tile15_b				1.0	1.0
+
+tnnl_flr6		detail/dt_conc				1.0	1.0
+tnnl_flr7b		detail/c1a1_flr2a			1.0	1.0
+
+tnnl_w4a		detail/dirtfloor001a			1.0	1.0
+tnnl_w5d		detail/tnnl_w5d				1.0	1.0
+tnnl_w6_2		detail/wall19				1.0	1.0
+
+{grate4a		detail/metal_detail_01			1.0	1.0
+{gratestep2		detail/dettex6				1.0	1.0
+{grid2			detail/dettex6				0.125	0.125
+{rail2			detail/metall1				0.25	0.25
+
++0~fifts_lght01		detail/light1				1.0	1.0
+
+c3a1_w3b		detail/concretefloor038a		1.0	1.0
+
+out_rock4		detail/rock2				1.0	1.0
+out_ground9		detail/grassfloor			2.0	2.0
+
+stripes2		detail/stripes2_detail			1.0	1.0
+stripes4		detail/dt_conc				0.75	0.75
+
+gtlogo			detail/dt_plaster1			4.0	4.0
+{cstrike_le6lad		detail/metal_detail_01			0.5	1.0
+brick6			detail/dt_plaster1 			4.0	4.0
+ciroad1			detail/floor5				1.0	1.0
+ciwall7			detail/dt_plaster1			8.0	4.0
+
+airduc01a1		detail/vent3				1.0	1.0
+
+met10c			detail/metall1				0.5	1.0
+met10			detail/metall1				0.5	1.0
+
+tr_gcwall1		detail/wall9				1.0	1.0
+tnnl_swrc1		detail/dt_conc				4.0	4.0
+
+c3a1b_w3		detail/dettex2				1.0	1.25

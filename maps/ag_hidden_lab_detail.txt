@@ -1,0 +1,239 @@
+//HL: Detail is a project fury# and Crowbar /` started in December 2009.
+//We changed halflife.wad and linked new 24bit textures with 18 popular hldm maps.
+//These Textures aren't completely created by us.
+
+//Credit goes to:
+//-Chain Studios (Half-Life: FX Contents, http://chainstudios.hlfx.ru/index.php?do=lbmfx)
+//-Valve (Source Materials)
+//-Cred Injuries (Some Textures + Some Help, http://www.fpsbanana.com/members/790621)
+//-thedönerking (thwc2_stalky map detailtextures, http://www.fpsbanana.com/maps/37711)
+//-protostar (source materials, http://www.fpsbanana.com/textures/95)
+
+//maplist:
+
+//lost_village2,
+//rapidcore, 
+//echo, 
+//stalkx,
+//boot_camp,
+//crossfire,
+//ag_crossfire,
+//gasworks,
+//stalkyard,
+//bounce,
+//cyanidestalkyard,
+//scary_1,
+//endcamp,
+//thunderstruck,
+//doublecross,
+//rebellion,
+//datacore,
+//ag_hidden_lab
+
+//Contact: www.xen-raiders.ucoz.com
+
++0medkit		detail/+0medkit			1.0	1.0
++amedkit		detail/+amedkit			1.0	1.0
++0recharge		detail/+0recharge		1.0	1.0
++arecharge		detail/+arecharge		1.0	1.0
+
+stripes1		detail/stripes2_detail		1.0	1.0
+stripes2		detail/stripes2_detail		1.0	1.0
+tnnl_brd1		detail/upfloor			0.125	1.0
+tnnl_brd1b		detail/upfloor			1.0	0.125
+c2a3_gar4		detail/dettex6			1.0	0.25
+
+-0babfl			detail/dt_metal2		4.0	4.0
+-1babfl			detail/dt_metal2		4.0	4.0
+-2babfl			detail/dt_metal2		4.0	4.0
+-3babfl			detail/dt_metal2		4.0	4.0
+-4babfl			detail/dt_metal2		4.0	4.0
+
+xcrate10a		detail/xcrate10a		1.0	1.0
+xcrate10b		detail/xcrate10b		1.0	1.0
+xcrate10c		detail/xcrate10c		1.0	1.0
+xcrate10d		detail/xcrate10d		1.0	1.0
+
+c2a4e_w1		detail/c2a4e_w1			1.0	1.0
+-0c2a4e_w1		detail/c2a4e_w1			1.0	1.0
+-1c2a4e_w1		detail/c2a4e_w1			1.0	1.0
+-2c2a4e_w1		detail/c2a4e_w1			1.0	1.0
+-3c2a4e_w1		detail/c2a4e_w1			1.0	1.0
+-4c2a4e_w1		detail/c2a4e_w1			1.0	1.0
+-5c2a4e_w1		detail/c2a4e_w1			1.0	1.0
+
+c1a0_wx			detail/c1a0_w1			1.0	1.0
+c1a0_w1			detail/c1a0_w1			1.0	1.0
+c1a0_w2			detail/concretefloor028a	1.0	1.0
+c1a0_w3			detail/concretefloor028a	1.0	1.0
+c3a1b_w7		detail/dettex2			1.0	1.0
+c3a1b_w8		detail/dettex2			1.0	1.0
+
+c1a0_w1d1		detail/c1a0_w1			1.0	1.0
+c1a0_w1d2		detail/c1a0_w1			1.0	1.0
+c1a0_w1d3		detail/c1a0_w1			1.0	1.0
+c1a0_w1d4		detail/c1a0_w1			1.0	1.0
+c1a0_w1d5		detail/c1a0_w1			1.0	1.0
+
+c1a1_flr2a		detail/c1a1_flr2a		1.0	1.0
+c1a1_flr2b		detail/c1a1_flr2b		1.0	1.0
+c1a1_flr2c		detail/c1a1_flr2c		1.0	1.0
+
+c1a4i_w1c		detail/c1a4i_w1c_custom		0.5	1.0
+
+tnnl_flr4		detail/upfloor			1.0	1.0
+tnnl_flr4c		detail/tar1			1.0	1.0
+con1_wall01p		detail/elevator1		1.0	1.0
+c1a3firedr01		detail/firedoor			1.0	1.0
+tnnl_flr1a		detail/metal_detail_01		1.0	4.0
+crete2_flr03a		detail/metalfloor007a		1.0	1.0
+crete2_flr03c		detail/dettex6			0.25	1.0
+steel			detail/dettex6			1.0	1.0
+c3a2_telepad		detail/teleport_256		1.0	1.0
+basetrim01		detail/Dead_trim2		1.0	1.0
+{rail1b			detail/dt_metal2		1.0	1.0
+{ladder1		detail/dt_metal2		1.0	1.0
+{duct_vnt		detail/dettex6			0.5	0.5
+generic99c		detail/dt_metal2		1.0	1.0
+c2a3turbine2		detail/metal_detail_01		4.0	4.0
+babtech_dr1c		detail/dt_smooth1		1.0	1.0
+pfab_dskdrwr		detail/dt_metal2		1.0	1.0
+drkmtlt_bord11		detail/dettex6_bright		1.0	1.0
+~lab1_comp3f		detail/dt_metal2		1.0	1.0
+fifties_ceil01		detail/dt_plaster2		1.0	1.0
+genlocker		detail/dettex6_lc		0.25	1.0
+generic100a		detail/dettex6_lc		0.125	0.125
+
+fiftsfile3		detail/dt_metal2		1.0	2.5
+
+fifties_cmp2b		detail/dettex6			0.75	1.0
+fifties_cmp2b2		detail/dettex6			0.75	0.5
+
+fifties_cmp1b		detail/dettex6			0.75	1.0
+fifties_cmp3a		detail/dettex6			0.75	0.5
+
+c2a4_w1h		detail/dt_smooth1		5.0	4.0
+
+generic031		detail/dettex6			0.75	0.25
+generic029		detail/dettex6			0.75	0.25
+-0c1a4_fuel		detail/dettex6			0.625	0.25
+-1c1a4_fuel		detail/dettex6			0.625	0.25
+-2c1a4_fuel		detail/dettex6			0.625	0.25
+-3c1a4_fuel		detail/dettex6			0.625	0.25
+-4c1a4_fuel		detail/dettex6			0.625	0.25
+lab1_brd3g		detail/dettex6			0.625	0.25
+
+c1a1c_w2		detail/concretewall002a		1.0	1.0
+crete4_wall01b		detail/concretewall002a_2	1.0	1.0
+c1a3wall08		detail/concretewall002a_2	1.0	1.0
+
+crete1_wall01		detail/dettex7_bright		1.0	1.0
+
+c1a0_labflr		detail/blackmesa_labflrl	1.5	1.5
+c1a0_labflrd		detail/blackmesa_labflrl	1.5	1.5
+c1a0_labflre		detail/blackmesa_labflrl	1.5	1.5
+c1a0_labw8		detail/labwall_double		1.0	1.0
+c1a0_labw4		detail/labwall02		1.0	1.0
+c1a0_labw6		detail/labwall02		1.0	1.0
+c1a0_labw3		detail/labwall_double		1.0	1.0
+
+c1a0_labw7		detail/dettex6_bright		1.0	1.0
+c1a0_labw7c		detail/dettex6_bright		1.0	1.0
+
+c1a0_labglu		detail/dettex6_bright		1.0	1.0
+
+babtech9d		detail/dettex6_bright		1.0	1.0
+c1a0b_dr4		detail/dettex6_bright		1.0	1.0
+c1a0b_dr3		detail/dettex6_bright		1.0	1.0
+
+c1a0_labw5		detail/labwall01		1.0	1.0
+c1a0_labw4		detail/labwall02		1.0	1.0
+
+c3a2_ceil		detail/dt_metal2		1.0	1.0
+
+duct_flr02		detail/vent3			1.0	1.0
+duct_flr02a		detail/vent3			1.0	1.0
+
+c1a3floor02		detail/concretefloor023a	0.5	0.5
+
+crate02b		detail/crate02b			1.0	1.0
+crate03			detail/crate03			1.0	1.0
+crate05			detail/crate02b			1.0	1.0		
+crate06			detail/crate03			1.0	1.0
+crate19			detail/crate04			1.0	1.0
+crate21			detail/crate03			1.0	1.0
+crate23			detail/crate23			1.0	1.0
+bcrate05		detail/crate02			1.0	1.0
+bcrate02		detail/crate03			1.0	1.0
+bcrate06		detail/crate02			1.0	1.0
+
+out_pave2		detail/concretefloor027a	1.0	1.0
+crete3_wall02		detail/dettex1			1.0	1.0
+tnnl_w4b2		detail/ground2			1.0	1.0
+
+fifties_dsk5a		detail/dt_metal2		1.0	1.0
+fiftsfile2b		detail/dt_metal2		1.0	1.0
+fiftsfile1		detail/mod_labshelf1b		1.0	1.0
+
+fifties_wall12c		detail/fifties_wall12c		1.0	1.0
+fifties_wall12		detail/fifties_wall12		1.0	1.0
+
+generic015o		detail/metal_detail_01		1.0	1.0
+generic015n		detail/metal_detail_01		0.5	0.5
+generic015r		detail/metal_detail_01		0.5	0.5
+generic015l		detail/metal_detail_01		0.25	0.125
+
+lab1_floor4		detail/lab1_floor4_detail	1.0	1.0
+c1a3wall04		detail/wall_stripes		1.0	1.0
+c1a3wall07		detail/c1a3wall07_detail	1.0	1.0
+c1a3wall06		detail/c1a3wall06_detail	1.0	1.0
+c1a3wall05		detail/c1a3wall05_detail	1.0	1.0
+
+generic107		detail/generic107		1.0	1.0
+generic107a		detail/generic107a		1.0	1.0
+generic107b		detail/generic107b		1.0	1.0
+
+gen_vend1		detail/generic106		1.0	1.0
+gen_vend1a		detail/generic106a		1.0	1.0
+gen_vend1b		detail/generic106b		1.0	1.0
+
+lab1_brd8		detail/dt_ssteel2		1.0	0.25
+
+-0c2a4_pan1		detail/-0c2a4_pan1_detail	1.0	1.0
+-1c2a4_pan1		detail/-1c2a4_pan1_detail	1.0	1.0
+
+c2a4_pan2		detail/c2a4_pan2_detail		1.0	1.0
+
+-0c2a4_pan2		detail/c2a4_pan2_detail		1.0	1.0
+-1c2a4_pan2		detail/c2a4_pan2_detail		1.0	1.0
+-2c2a4_pan2		detail/c2a4_pan2_detail		1.0	1.0
+-3c2a4_pan2		detail/c2a4_pan2_detail		1.0	1.0
+
+c2a4x_h2e		detail/c2a4x_h2e_detail		1.0	1.0
+
+lab1_map1		detail/lab1_map1_sw		1.0	1.0
+lab1_map2		detail/lab1_map2_sw		1.0	1.0
+
+lab1_flr4b		detail/c1a3tiles		1.0	1.0
+lab1_flr8e		detail/c1a3tiles		1.5	1.5
+
+xcrate4a		detail/metall1_bright		0.625	0.5
+xcrate4b		detail/metall1_bright		0.625	0.625
+
+lab3_w9			detail/metall1_bright		1.0	0.5
+lab3_c1			detail/metall1_bright		1.0	1.0
+lab3_w7			detail/metall1_bright		1.0	1.0
+lab3_w8a		detail/metall1_bright		1.0	1.0
+
+lab1_c4d2		detail/metalfloor6_sw		2.0	2.0
+
+lab1_comp9e2		detail/dt_metal2		1.5	4.0
++0lab1_comp9b2		detail/dt_metal2		1.5	4.0
++1lab1_comp9b2		detail/dt_metal2		1.5	4.0
++2lab1_comp9b2		detail/dt_metal2		1.5	4.0
+
+lab1_trim3		detail/metaltruss017a		1.0	1.0			
+
+
+
+
