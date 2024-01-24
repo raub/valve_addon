@@ -59,7 +59,9 @@ were manually upscaled and outlined.
 
 [New Laser Dot](https://gamebanana.com/mods/11526).
 
-[HD Half-Life retextures pack](https://gamebanana.com/mods/6738).
+[HD Half-Life retextures pack](https://gamebanana.com/mods/6738) - in this pack all detail
+the textures were made less vibrant: brightness +25, contrast -15. This is done to
+optimize the DM experience.
 
 [Black Mesa Weapons Pack for Half-life 1](https://www.moddb.com/mods/black-mesa-weapons-pack-for-half-life-1) - for
 this pack, the models were manually adjusted using
@@ -68,4 +70,14 @@ The models are optimized for FOV 110 (`default_fov 110` in console).
 Some of the models are taken from `valve_hd` folder - where they look better.
 Most of the sounds from this model pack were removed in favor of the original ones.
 
-[BugfixedHL-Rebased](https://github.com/tmp64/BugfixedHL-Rebased).
+[BugfixedHL-Rebased](https://github.com/tmp64/BugfixedHL-Rebased) - provided optional
+`addon.cfg` file to adjust the default DLL settings.
+
+[Blood and Gore Remastered V2](https://gamebanana.com/mods/180045) - some of the
+models are removed as unnecessary for DM.
+
+[BM:S Hud Sprites](https://gamebanana.com/mods/388846).
+
+[Action Essentials muzzle flash](https://gamebanana.com/mods/11514).
+
+
