@@ -5,13 +5,14 @@ HLDM: Upgraded Resources
 [![screenshot-1](/thumbnail-1.jpg)](/screenshot-1.jpg)
 [![screenshot-2](/thumbnail-2.jpg)](/screenshot-2.jpg)
 
-* Updated textures / optional detail textures.
-* Models from Black Mesa - optimized for FOV 110.
-* Minor audio updates.
-* New high-resolution crosshairs with outlines.
-* Alternative RPG crosshair.
 * Tested with Steam up-to-date post-**Anniversary** release.
 * BugfixedHL - client.dll
+* Updated textures / optional detail textures.
+* Models from Black Mesa - optimized for FOV 110.
+* Minor audio changes.
+* New high-resolution crosshairs with outlines.
+* Alternative RPG laserdot.
+* Updated other sprites.
 
 
 ## Install with GIT
@@ -57,8 +58,6 @@ Otherwise you can use your own settings, or execute only part of the config manu
 [Green Crosshairs](https://gamebanana.com/mods/309097) - for this pack, the croshairs
 were manually upscaled and outlined.
 
-[New Laser Dot](https://gamebanana.com/mods/11526).
-
 [HD Half-Life retextures pack](https://gamebanana.com/mods/6738) - in this pack all detail
 the textures were made less vibrant: brightness +25, contrast -15. This is done to
 optimize the DM experience.
@@ -80,4 +79,9 @@ models are removed as unnecessary for DM.
 
 [Action Essentials muzzle flash](https://gamebanana.com/mods/11514).
 
+[HD Sprite Pack](https://gamebanana.com/mods/11501).
 
+[new blood & explode & bullet](https://gamebanana.com/mods/11480).
+
+[Smoke & HotGlow - Cyan & Green](https://gamebanana.com/mods/11498) - adjusted the "smoke"
+sprite, used glow from different pack.
