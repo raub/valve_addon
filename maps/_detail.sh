@@ -1,5 +1,6 @@
 cp _common.txt ag_crossfire_detail.txt
 cp _common.txt ag_hidden_lab_detail.txt
+cp _common.txt agtricks_detail.txt
 cp _common.txt boot_camp_detail.txt
 cp _common.txt bounce_detail.txt
 cp _common.txt c0a0_detail.txt
@@ -102,6 +103,7 @@ cp _common.txt contamination_detail.txt
 cp _common.txt crossfire_detail.txt
 cp _common.txt cyanidestalkyard_detail.txt
 cp _common.txt datacore_detail.txt
+cp _common.txt destructo_hops_detail.txt
 cp _common.txt disposal_detail.txt
 cp _common.txt doublecross_detail.txt
 cp _common.txt echo_detail.txt
